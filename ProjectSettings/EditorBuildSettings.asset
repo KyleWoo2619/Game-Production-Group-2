@@ -8,6 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Graveyard.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c4d21140709d60443b73daedc2108fa5
+  - enabled: 1
+    path: Assets/Scenes/Mausoleum.unity
+    guid: 2f548d74c65ad0f4da134b6502a79518
+  - enabled: 1
+    path: Assets/Scenes/Van.unity
+    guid: 6fb9c495e3e5d53498634732578edcdc
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f04525faa3ef31045be117e4da0ffe21, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
